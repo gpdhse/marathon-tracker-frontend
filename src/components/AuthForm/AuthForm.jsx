@@ -8,9 +8,7 @@ const AuthForm = () => {
                 <h1 className={style.title}>Войти</h1>
                 <input className={style.inputField} type="text" placeholder='E-mail' />
                 <input className={style.inputField} type="text" placeholder='Пароль' />
-                <button className={style.loginButton} value='Войти' onClick={
-                    click
-                } >Войти</button>
+                <button className={style.loginButton} value='Войти'     >Войти</button>
             </form>
         </div>
     );
