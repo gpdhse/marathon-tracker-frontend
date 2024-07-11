@@ -1,0 +1,467 @@
+.my-acc-gor .container-1 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: -6px;
+  translate: -50% 0;
+  width: 1609px;
+  height: 1096px;
+}
+.my-acc-gor .heart {
+  width: 75px;
+  height: 70.3px;
+}
+.my-acc-gor .logo {
+  border-radius: 50px;
+  background: #D9EAD3;
+  position: relative;
+  margin-right: 37px;
+  display: flex;
+  padding: 19px 12px 10.7px 13px;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.my-acc-gor .container-22 {
+  margin: 39px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'SF Pro', 'Roboto Condensed';
+  font-weight: 1000;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 0.55;
+  color: #6A8F2E;
+}
+.my-acc-gor .container-2 {
+  position: relative;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-acc-gor .container-2 {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-3 {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-4 {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-5 {
+  margin: 0 18.3px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-6 {
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-7 {
+  margin: 6px 0 7px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-acc-gor .vector {
+  width: 89.8px;
+  height: 73.5px;
+}
+.my-acc-gor .photo-size-select-actual {
+  display: flex;
+  width: 89.8px;
+  height: 73.5px;
+  box-sizing: border-box;
+}
+.my-acc-gor .image {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 52.3px 0 53.3px 0;
+  width: 236px;
+  height: 179px;
+  box-sizing: border-box;
+}
+.my-acc-gor .marathon-template {
+  border-radius: 15px;
+  background: #D9EAD3;
+  position: relative;
+  margin: 0 127px 10px 127px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 9px 8px 9px 23px;
+  width: 936px;
+  box-sizing: border-box;
+}
+.my-acc-gor .container-17 {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-18 {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-19 {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-20 {
+  margin: 0 18.3px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-21 {
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-3 {
+  margin: 6px 0 7px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-acc-gor .vector-3 {
+  width: 89.8px;
+  height: 73.5px;
+}
+.my-acc-gor .photo-size-select-actual-3 {
+  display: flex;
+  width: 89.8px;
+  height: 73.5px;
+  box-sizing: border-box;
+}
+.my-acc-gor .image-3 {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 52.3px 0 53.3px 0;
+  width: 236px;
+  height: 179px;
+  box-sizing: border-box;
+}
+.my-acc-gor .marathon-template-3 {
+  border-radius: 15px;
+  background: #D9EAD3;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 8px 8px 23px;
+  width: 936px;
+  box-sizing: border-box;
+}
+.my-acc-gor .container-7 {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-8 {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-9 {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-10 {
+  margin: 0 18.3px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-11 {
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-6 {
+  margin: 6px 0 7px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-acc-gor .vector-1 {
+  width: 89.8px;
+  height: 73.5px;
+}
+.my-acc-gor .photo-size-select-actual-1 {
+  display: flex;
+  width: 89.8px;
+  height: 73.5px;
+  box-sizing: border-box;
+}
+.my-acc-gor .image-1 {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 52.3px 0 53.3px 0;
+  width: 236px;
+  height: 179px;
+  box-sizing: border-box;
+}
+.my-acc-gor .marathon-template-1 {
+  border-radius: 15px;
+  background: #D9EAD3;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 8px 9px 23px;
+  width: 936px;
+  box-sizing: border-box;
+}
+.my-acc-gor .container {
+  margin-right: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 936px;
+  box-sizing: border-box;
+}
+.my-acc-gor .container {
+  margin: 120px 0 136px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 128px;
+  color: #000000;
+}
+.my-acc-gor .container-4 {
+  position: relative;
+  margin: 0 127px 7px 127px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.my-acc-gor .container-12 {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-13 {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-14 {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-15 {
+  margin: 0 18.3px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-16 {
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #000000;
+}
+.my-acc-gor .container-1 {
+  margin: 6px 0 7px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.my-acc-gor .vector-2 {
+  width: 89.8px;
+  height: 73.5px;
+}
+.my-acc-gor .photo-size-select-actual-2 {
+  display: flex;
+  width: 89.8px;
+  height: 73.5px;
+  box-sizing: border-box;
+}
+.my-acc-gor .image-2 {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 52.3px 0 53.3px 0;
+  width: 236px;
+  height: 179px;
+  box-sizing: border-box;
+}
+.my-acc-gor .marathon-template-2 {
+  border-radius: 15px;
+  background: #D9EAD3;
+  position: relative;
+  margin: 12px 155px 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 8px 9px 23px;
+  width: 936px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.my-acc-gor .label-text {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 48px;
+  letter-spacing: 0.1px;
+  line-height: 0.417;
+  color: #FFFFFF;
+}
+.my-acc-gor .button {
+  border-radius: 150px;
+  background: #396335;
+  margin-bottom: 11px;
+  display: flex;
+  padding: 89px 0;
+  width: 198px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.my-acc-gor .container-5 {
+  position: relative;
+  margin: 0 127px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 1289px;
+  box-sizing: border-box;
+}
+.my-acc-gor {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0 128px 20px;
+  width: 1609px;
+  box-sizing: border-box;
+}

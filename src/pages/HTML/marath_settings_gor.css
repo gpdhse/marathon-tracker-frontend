@@ -1,0 +1,262 @@
+.marath-settings-gor .container {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -498px;
+  top: 0px;
+  width: 2107px;
+  height: 1090px;
+}
+.marath-settings-gor .heart {
+  width: 75px;
+  height: 70.3px;
+}
+.marath-settings-gor .logo {
+  border-radius: 50px;
+  background: #D9EAD3;
+  position: relative;
+  margin-right: 36px;
+  display: flex;
+  padding: 19px 12px 10.7px 13px;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.marath-settings-gor .create-new-marathon {
+  margin: 60.5px 0 17.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'SF Pro', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 50px;
+  letter-spacing: -0.4px;
+  line-height: 0.44;
+  color: #396336;
+}
+.marath-settings-gor .container {
+  position: relative;
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .label {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.marath-settings-gor .value {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.marath-settings-gor .input {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .input-field {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .label-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.marath-settings-gor .value-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.marath-settings-gor .input-1 {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .input-field-1 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .label-2 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.marath-settings-gor .value-2 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #B3B3B3;
+}
+.marath-settings-gor .input-2 {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  padding: 11.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .input-field-2 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .label-3 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #1E1E1E;
+}
+.marath-settings-gor .value-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-base-font-family, 'Inter');
+  font-weight: var(--body-base-font-weight, 400);
+  font-size: var(--body-base-font-size, 16px);
+  line-height: var(--body-base-line-height, 1.4);
+  color: #B3B3B3;
+}
+.marath-settings-gor .drag {
+  position: absolute;
+  right: 5px;
+  bottom: 6px;
+  width: 6.6px;
+  height: 6.6px;
+}
+.marath-settings-gor .textarea {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  padding: 11.5px 15.5px 45.5px 15.5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .textarea-field {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .button-1 {
+  overflow-wrap: break-word;
+  font-family: var(--single-line-body-base-font-family, 'Inter');
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 1);
+  color: #F5F5F5;
+}
+.marath-settings-gor .button {
+  border-radius: 8px;
+  border: 1px solid #2C2C2C;
+  background: #6A8F2E;
+  display: flex;
+  padding: 11px 0px 11px 0;
+  width: 495px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor .button-group {
+  background: #6A8F2E;
+  display: flex;
+  width: 495px;
+  box-sizing: border-box;
+}
+.marath-settings-gor .form-contact {
+  border-radius: 8px;
+  border: 1px solid #D9D9D9;
+  background: #92BA4F;
+  margin: 0 62px 386px 0;
+  display: flex;
+  flex-direction: column;
+  padding: 23px 23px 35px 23px;
+  width: 543px;
+  box-sizing: border-box;
+}
+.marath-settings-gor .please-pin-your-first-and-last-path-points-you-could-also-correct-breakpoints-of-the-path {
+  margin: 0 57px 55px 57px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'SF Pro', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -0.4px;
+  line-height: 0.55;
+  color: #92BA4F;
+}
+.marath-settings-gor .container-1 {
+  border-radius: 15px;
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  width: 939px;
+  height: 727px;
+}
+.marath-settings-gor .container-1 {
+  margin-top: 54px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.marath-settings-gor .container-2 {
+  position: relative;
+  margin-left: 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.marath-settings-gor {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 26px 37px 20px;
+  width: 1609px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,661 @@
+.current-marathon-gor .container {
+  background: url('../assets/images/image.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.current-marathon-gor .map {
+  border-radius: 20px;
+  background: url('../assets/images/map.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 108px;
+  bottom: 75px;
+  width: 1207px;
+  height: 878px;
+}
+.current-marathon-gor .heart {
+  width: 75px;
+  height: 70.3px;
+}
+.current-marathon-gor .logo {
+  border-radius: 50px;
+  background: #D9EAD3;
+  position: relative;
+  margin-right: 23px;
+  display: flex;
+  padding: 19px 12px 10.7px 13px;
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .see-your-marathon-runners-parametrs-in-live-mode {
+  margin: 37px 0 41px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'SF Pro', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 37px;
+  letter-spacing: -0.4px;
+  line-height: 0.595;
+  color: #D9EAD3;
+}
+.current-marathon-gor .container-2 {
+  margin: 13px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.current-marathon-gor .label {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro', 'Roboto Condensed';
+  font-weight: 900;
+  font-size: 48px;
+  letter-spacing: -1px;
+  color: #FFFFFF;
+}
+.current-marathon-gor .button-sos {
+  border-radius: 90px;
+  background: #FF3922;
+  display: flex;
+  padding: 63px 0;
+  width: 126px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .container-1 {
+  margin: 0 116px 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1451px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .thumbnail {
+  background: url('../assets/images/thumbnail.png') 50% / cover no-repeat;
+  width: 56px;
+  height: 56px;
+}
+.current-marathon-gor .leading-element {
+  margin: 0 16px 8px 0;
+  display: flex;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .supporting-text {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodymedium-font-family, 'Roboto');
+  font-weight: var(--m-3-bodymedium-font-weight, 400);
+  font-size: var(--m-3-bodymedium-font-size, 14px);
+  letter-spacing: var(--m-3-bodymedium-letter-spacing, 0.3px);
+  line-height: var(--m-3-bodymedium-line-height, 1.429);
+  color: #49454F;
+}
+.current-marathon-gor .content {
+  margin-right: 60.8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-supporting-text {
+  margin: 0 21px 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--m-3-labelsmall-font-family, 'Roboto');
+  font-weight: var(--m-3-labelsmall-font-weight, 500);
+  font-size: var(--m-3-labelsmall-font-size, 11px);
+  letter-spacing: var(--m-3-labelsmall-letter-spacing, 0.5px);
+  line-height: var(--m-3-labelsmall-line-height, 1.455);
+  color: #49454F;
+}
+.current-marathon-gor .icon {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .checkboxes {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin-top: 15px;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .trailing-element {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.current-marathon-gor .state-layer {
+  margin: 0 31px 5px 16px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.current-marathon-gor .divider-1 {
+  background: #CAC4D0;
+  width: 360px;
+  height: 1px;
+}
+.current-marathon-gor .divider {
+  display: flex;
+  width: 360px;
+  height: 1px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .list-item-1 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-1 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-1 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-1 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-1 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-2 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-2 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-2 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-2 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-2 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-3 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-3 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-3 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-3 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-3 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-4 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-4 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-4 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-4 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-4 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-4 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-5 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-5 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-5 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-5 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-5 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-5 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-6 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-6 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-6 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-6 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-6 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-6 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-7 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-7 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-7 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-7 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-7 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-7 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-8 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-8 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-8 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-8 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-8 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-8 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-9 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-9 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-9 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-9 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-9 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-9 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-10 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-10 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-10 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-10 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-10 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-10 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-11 {
+  margin: 0 31px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .headline-11 {
+  overflow-wrap: break-word;
+  font-family: var(--m-3-bodylarge-font-family, 'Roboto');
+  font-weight: var(--m-3-bodylarge-font-weight, 400);
+  font-size: var(--m-3-bodylarge-font-size, 16px);
+  letter-spacing: var(--m-3-bodylarge-letter-spacing, 0.5px);
+  line-height: var(--m-3-bodylarge-line-height, 1.5);
+  color: #1D1B20;
+}
+.current-marathon-gor .content-11 {
+  display: flex;
+  box-sizing: border-box;
+}
+.current-marathon-gor .icon-11 {
+  width: 12px;
+  height: 9.4px;
+}
+.current-marathon-gor .check-small-11 {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  display: flex;
+  width: 12px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .trailing-element-11 {
+  border-radius: 2px;
+  background: #65558F;
+  position: relative;
+  margin: 3px 0;
+  width: 18px;
+  height: 18px;
+}
+.current-marathon-gor .list-item-12 {
+  margin: 0 31px 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 313px;
+  box-sizing: border-box;
+}
+.current-marathon-gor .list {
+  border-radius: 20px;
+  background: #FEF7FF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 0 373px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.current-marathon-gor .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.current-marathon-gor {
+  background: #FFFFFF;
+  display: flex;
+  padding: 7px 22px 75px 20px;
+  width: 1609px;
+  box-sizing: border-box;
+}
