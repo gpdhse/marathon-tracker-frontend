@@ -14,7 +14,7 @@ export const userLogin = async ({email, password}) => {
 }
 
 export const userRegistration = async ({name, email, password}) => {
-  const {data} = await $host.post('/admin//sign-up',{name, email, password}, {
+  const {data} = await $host.post('/admin/sign-up',{name, email, password}, {
     headers: {
       'content-type': 'application/json'
     }

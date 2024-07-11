@@ -1,11 +1,11 @@
 import axios from "axios";
 
 export const $host = axios.create({
-  baseURL:  import.meta.env.VITE_SERVER_BASE_URL,
+  baseURL:  import.meta.env.BACKEND_URL,
 })
 
 export const $authHost = axios.create({
-  baseURL: import.meta.env.VITE_SERVER_BASE_URL,
+  baseURL: import.meta.env.BACKEND_URL,
 })
 
 const authInterceptor = config => {

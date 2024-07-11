@@ -5,7 +5,7 @@ import React from "react"
 const LogoWithName = () => {
     return (
         <div className={style.logo}>
-            <img src={logo} alt="Logo" />
+            <img src={logo} alt="Logo" type="text" value="MARATHON TRACKER"/>
         </div>
     );
 }
