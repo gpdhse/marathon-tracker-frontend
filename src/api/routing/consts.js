@@ -1,0 +1,7 @@
+export const LOGIN_ROUTE = '/login'
+export const CREATE_SETTINGS_MARATHON_ROUTE = '/createnew'
+export const MY_ACC_ROUTE = '/myAcc'
+export const CURR_MARATHON_ROUTE = '/currMarathRoute'
+export const SIGN_UP__ROUTE = '/signUp'
+export const PLUS_ONE_NEW_MARATHON_ROUTE = '/plusNewMArathon'
+export const SOS_BUT = '/helpThePerson'
