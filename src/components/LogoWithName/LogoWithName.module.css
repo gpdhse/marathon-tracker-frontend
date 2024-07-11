@@ -1,0 +1,20 @@
+.logo {
+    border-radius: 50px;
+    background: #D9EAD3;
+    position: relative;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    justify-content: space-around;
+}
+
+.name {
+    margin: 30px 30px 30px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 40px;
+    color: #6A8F2E;
+}

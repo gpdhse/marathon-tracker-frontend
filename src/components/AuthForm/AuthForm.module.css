@@ -1,0 +1,42 @@
+.title {
+    margin: 0 30px 30px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro';
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: -0.4px;
+    line-height: 0.88;
+    color: #396336;
+}
+
+.loginForm {
+    border-radius: 8px;
+    border: 1px solid #D9D9D9;
+    background: #FFFFFF;
+    display: flex;
+    padding: 23px 23px 11px 23px;
+    width: 100vw;
+    justify-content: space-around;
+}
+
+.inputField {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.loginButton {
+    border-radius: 8px;
+    border: 1px solid #ffffff;
+    background: #396336;
+    display: flex;
+    padding: 11px 0 11px 0;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+    justify-content: center;
+    color: #FFFFFF;
+}

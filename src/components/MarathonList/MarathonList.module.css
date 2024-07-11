@@ -1,0 +1,35 @@
+.parametr {
+    margin-bottom: 13px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: var(--body-base-font-family, 'Inter');
+    font-weight: var(--body-base-font-weight, 400);
+    font-size: var(--body-base-font-size, 16px);
+    line-height: var(--body-base-line-height, 1.4);
+    color: #000000;
+}
+
+.title {
+    margin: 39px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro', 'Roboto Condensed';
+    font-weight: 1000;
+    font-size: 40px;
+    letter-spacing: -0.4px;
+    line-height: 0.55;
+    color: #6A8F2E;
+}
+
+.map {
+    border-radius: 4px;
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 52.3px 0 53.3px 0;
+    width: 236px;
+    height: 179px;
+    box-sizing: border-box;
+}

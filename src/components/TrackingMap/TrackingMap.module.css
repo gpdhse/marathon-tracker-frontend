@@ -1,0 +1,21 @@
+.title {
+    margin: 37px 0 41px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 37px;
+    letter-spacing: -0.4px;
+    line-height: 0.595;
+    color: #D9EAD3;
+}
+
+.map {
+    border-radius: 20px;
+    background: url('../assets/images/map.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 108px;
+    bottom: 75px;
+    width: 1207px;
+    height: 878px;
+}

@@ -1,0 +1,12 @@
+.title {
+    margin: 0 57px 55px 57px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: -0.4px;
+    line-height: 0.55;
+    color: #92BA4F;
+}

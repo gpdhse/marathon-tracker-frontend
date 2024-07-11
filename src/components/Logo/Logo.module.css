@@ -1,0 +1,11 @@
+.logo {
+    border-radius: 50px;
+    background: #D9EAD3;
+    position: relative;
+    margin: 0 37px 295px 0;
+    display: flex;
+    padding: 19px 12px 10.7px 13px;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+}

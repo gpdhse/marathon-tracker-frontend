@@ -1,0 +1,10 @@
+.addButton {
+    border-radius: 150px;
+    background: #396335;
+    margin-bottom: 11px;
+    display: flex;
+    padding: 89px 0;
+    width: 198px;
+    height: fit-content;
+    box-sizing: border-box;
+}
