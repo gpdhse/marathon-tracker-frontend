@@ -2,13 +2,13 @@ import {BrowserRouter} from "react-router-dom";
 import AppRouter from './routing/AppRouter.jsx'
 import './index.css'
 import {useEffect, useState} from "react";
-import {refreshToken} from "./api/userApi";
+import {refreshToken} from "./api/adminApi.js";
 import {useDispatch} from "react-redux";
-import {setAuthAction} from "./store/userReducers";
+import {setAuthAction} from "./store/userReducer.js";
 import React from 'react';
-import App from './App';
 
-function App() {
+
+const App = () => {
 
   const dispatch = useDispatch()
   const [loading, setLoading] = useState(true)
