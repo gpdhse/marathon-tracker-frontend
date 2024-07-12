@@ -1,7 +1,5 @@
 import style from './AuthForm.module.css'
 import React from "react"
-import axios from "axios"
-import { $host } from '../../api/axiousApi';
 import { userLogin } from '../../api/adminApi'
 
 const AuthForm = () => {
@@ -24,16 +22,4 @@ const AuthForm = () => {
         </div>
     );
 }
-//TODO make @forgot password@
-
-
-
-export const userLogin = async ({ email, password }) => {
-    const { data } = await $host.post('/users/signIn', { email, password }, {
-        headers: {
-            'content-type': 'application/json'
-        }
-    })
-}
-
 export default AuthForm

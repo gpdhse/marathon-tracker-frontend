@@ -1,8 +1,8 @@
-import {$host, $authHost} from './axiosApi.js'
+import {$host, $authHost} from '../api/axiousApi'
 import {jwtDecode} from 'jwt-decode'
 
 
-export const userLogin = async ({email, password}) => {
+export const userLogin = async ({email, password,  device_id }) => {
   const {data} = await $host.post('/admin//sign-in', {email, password, device_id}, {
     headers: {
       'content-type': 'application/json'

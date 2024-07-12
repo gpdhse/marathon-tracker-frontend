@@ -5,6 +5,8 @@ import {useEffect, useState} from "react";
 import {refreshToken} from "./api/userApi";
 import {useDispatch} from "react-redux";
 import {setAuthAction} from "./store/userReducers";
+import React from 'react';
+import App from './App';
 
 function App() {
 

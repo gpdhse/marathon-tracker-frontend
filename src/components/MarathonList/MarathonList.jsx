@@ -1,5 +1,5 @@
 import style from './MarathonList.module.css'
-import map from './assets/images/map.png'
+import map from '../../assets/images/map.png'
 import React from "react"
 
 const MarathonList = () => {

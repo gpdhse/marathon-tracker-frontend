@@ -1,5 +1,7 @@
 const defaultState = {
     id: -1,
+    email: "",
+    name: "",
     isAuth: false
 }
 
@@ -18,7 +20,7 @@ export const userReducer = (state, action) => {
             }
 
         default:
-            return state
+            return defaultState
     }
 }
 

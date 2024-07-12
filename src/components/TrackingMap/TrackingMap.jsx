@@ -1,6 +1,6 @@
 import React from "react"
 import style from './TrackingMap.module.css'
-import map from './assets/images/map.png'
+import map from '../../assets/images/map.png'
 
 const TrackingMap = () => {
     return (
